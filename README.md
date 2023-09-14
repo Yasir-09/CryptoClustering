@@ -22,3 +22,6 @@ Find the Best Value for k Using the PCA Data.
 Cluster Cryptocurrencies with K-means Using the PCA Data.
 
 
+**Reference for coding**
+
+The coding was learnt from the Module 19 unsupervised learning and the activities of Data Analytics and Visualization Course of UoFT.
