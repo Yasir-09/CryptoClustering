@@ -24,4 +24,4 @@ Cluster Cryptocurrencies with K-means Using the PCA Data.
 
 **Reference for coding**
 
-The coding was learnt from the Module 19 unsupervised learning and the activities of Data Analytics and Visualization Course of UoFT.
+The coding was learnt from the Module 19 unsupervised learning and the activities of Data Analytics and Visualization Course.
